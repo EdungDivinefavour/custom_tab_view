@@ -1,3 +1,14 @@
-## [0.0.1] - TODO: Add release date.
+## [0.2.0] - 2025-06-13
 
-* TODO: Describe initial release.
+- Fixed issues with tab positioning.
+- Added customizable indicator and label colors.
+- Improved lifecycle management of TabController.
+- Added callbacks for tab changes and scroll events.
+
+## [0.1.0] - 2022-06-10
+
+- Initial stable release with core custom tab view functionality.
+
+## [0.0.1] - 2022-01-15
+
+- Initial release.
