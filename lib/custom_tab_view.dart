@@ -1,3 +1,3 @@
-library custom_tab_view;
+library customtabview;
 
 export 'src/custom_tab_view.dart';
