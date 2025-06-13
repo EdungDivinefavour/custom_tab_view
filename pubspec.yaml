@@ -1,4 +1,4 @@
-name: custom_tab_view
+name: customtabview
 description: A custom tab view that safely handles dynamic tab rendering and avoids crashes from tab count mismatches.
 version: 0.2.0
 homepage: https://github.com/EdungDivinefavour/custom_tab_view
