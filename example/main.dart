@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:custom_tab_view/custom_tab_view.dart';
+import 'package:customtabview/custom_tab_view.dart';
 
 void main() => runApp(const MyApp());
 
